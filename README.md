@@ -89,11 +89,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## Contact
-Feel free to reach out if you have any questions or suggestions:
-- **Email**: example@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
-
----
-
 Enjoy exploring roof damage risks with this project!
